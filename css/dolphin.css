@@ -24,5 +24,7 @@ html {
     position: absolute; 
     top: 350px;
     right: 0;
-    transform: ();
+    transform: rotate(1.0turn);
+  }
+}
 
